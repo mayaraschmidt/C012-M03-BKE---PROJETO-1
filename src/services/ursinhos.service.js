@@ -8,14 +8,14 @@ const ursinhos = [
     },
     {
         id: 2,
-        sabor: 'Wish Bear',
+        nome: 'Wish Bear',
         descricao:
         'This light teal bear, with a shooting star symbol on its belly badge, is actually a girl. She likes to help make everyone’s wishes come true. She also has to make it clear that sometimes the only way to make your wishes come true is by hard work. Her best friend is a wishing star called Twinkler.',
         preco: 80.0,
     },
     {
         id: 3,
-        sabor: 'Cheer Bear',
+        nome: 'Cheer Bear',
         descricao:
         'This girl is one very happy, jolly bear. If somebody is feeling down Cheer Bear will help to try and cheer them up. She is carnation pink with a rainbow symbol on her tummy.',
         preco: 7.0,
